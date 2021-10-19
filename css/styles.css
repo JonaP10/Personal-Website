@@ -1,0 +1,23 @@
+  body {
+    background-color: white;
+  }
+
+ h1 {
+   color: #1597E5;
+ }
+
+ h2 {
+   color: #1597E5;
+ }
+
+ h3 {
+   color: #1597E5;
+ }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 6px;
+    width: 5%;
+  }
